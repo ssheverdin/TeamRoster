@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/0-pack/">
+    <Project Path="DataStructures/DataStructures.csproj" />
+    <Project Path="DataStructuresTests/DataStructuresTests.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="TeamRoster.DataAccess/TeamRoster.DataAccess.csproj" />
+    <Project Path="TeamRoster.Domain/TeamRoster.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="TeamRoster.Dtos/TeamRoster.Dtos.csproj" />
+  <Project Path="TeamRoster.Logic/TeamRoster.Logic.csproj" />
+</Solution>
